@@ -1,0 +1,5 @@
+player 1: ab_player_enhanced/Ninuki.py
+player 2: ab_player/Ninuki-ab.py
+player 1 wins 7
+player 2 wins 3
+draw 0
